@@ -1,1 +1,13 @@
-# Prova2-2-BI
+# Prova 2 - Segundo Bimestre
+
+# Operação Maré Alta
+
+- RA: 242976512
+- CLASSE_ALVO: Refrigerado
+- TERMINAL_ALVO: T1
+- DATA_CORTE: 2026-04-01
+- INCIDENTE: -25.4880, -48.5000
+- EMPRESA_SANCIONADA: E2
+- BASE_DA_PILHA: K8
+- CÓDIGO DE AUTENTICIDADE: LP-242976512-20424-65104
+'@ | Set-Content README.md -Encoding utf8
